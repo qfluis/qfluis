@@ -1,5 +1,6 @@
-### Hi there 👋
-PRUEBA
+### Holiwi 👋
+Actualmente estoy estudiando Web Development en IT Academy (Barcelona Activa).
+En el pasado fui **Flash coder/animator**, **Elearning - administrator / Elearning content creator**, **HR Analytics** 
 <!--
 **qfluis/qfluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
