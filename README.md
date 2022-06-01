@@ -1,10 +1,13 @@
-### ¡Hola! 👋
+## ¡Hola! 👋
+#### ! Página en obras
 Actualmente estoy trabajando en:
-- Desarrollo Web: **JS**, **Node.js**, **HTML**, **CSS**, **Angular**, **React**...
-- Datos: **Python**, **Numpy**, **Pandas**, **Mathplotlib**, **Seaborn**...
+- Desarrollo Web: <img src="./icons/javascript.svg" height="25" />   <img src="./icons/nodedotjs.svg" height="25" /> <img src="./icons/html5.svg" height="25" /> <img src="./icons/typescript.svg" height="25" />  <img src="./icons/angular.svg" height="25" /> 
+- Datos: <img src="./icons/python.svg" height="25" /> <img src="./icons/numpy.svg" height="25" /> <img src="./icons/pandas.svg" height="25" /> <!-- **Mathplotlib**, **Seaborn**... -->
 
 En el pasado fui **Flash coder/animator**, **Elearning - administrator / Elearning content creator**, **HR Analytics**...
 <!--
+Añadir react, 
+
 **qfluis/qfluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Actualmente estoy estudiando Web Development en IT Academy (Barcelona Activa).
