@@ -1,8 +1,13 @@
-### Hola! 👋
-Actualmente estoy estudiando Web Development en IT Academy (Barcelona Activa).
-En el pasado fui **Flash coder/animator**, **Elearning - administrator / Elearning content creator**, **HR Analytics**... 
+### ¡Hola! 👋
+Actualmente estoy trabajando en:
+- Desarrollo Web: **JS**, **Node.js**, **HTML**, **CSS**, **Angular**, **React**...
+- Datos: **Python**, **Numpy**, **Pandas**, **Mathplotlib**, **Seaborn**...
+
+En el pasado fui **Flash coder/animator**, **Elearning - administrator / Elearning content creator**, **HR Analytics**...
 <!--
 **qfluis/qfluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Actualmente estoy estudiando Web Development en IT Academy (Barcelona Activa).
 
 Here are some ideas to get you started:
 
